@@ -34,5 +34,8 @@ public class SupermanSon extends Superman {
 		// TODO Auto-generated method stub
 		return "Superman Son Take Off";
 	}
+	public String Telepatia() {
+		return "Telepartia Super Man son";
+	}
 
 }
